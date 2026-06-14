@@ -72,7 +72,7 @@ The Power BI dashboard includes:
 
 ## Skills Demonstrated
 
-- Data Cleaning & Validation using excel and poweer query
+- Data Cleaning & Validation using excel and power query
 - Excel Formulas (SUMIF, TRIM, Proper)
 - Pivot Tables
 - Power BI Dashboard Development
