@@ -66,7 +66,7 @@ The Power BI dashboard includes:
 - [Sales_Performance_clean](Cleaned_Data/)
 - Sales_Performance_Dashboard.pbix — Power BI dashboard file
 - Project_Overview.docx — Full project documentation
-- Dashboard_Screenshot.png — Preview of final dashboard
+- [Preview of final dashboard](Dashboard/)
 
 ---
 
