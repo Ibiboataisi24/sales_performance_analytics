@@ -1,1 +1,87 @@
+[6/15/2026 4:02 PM] Ibibo Ataisi Justin ™️: # 📊 Sales Performance Strategic Report
 
+## 📝 Document Control & Metadata
+* Project Name: Nigeria Retail Operations Sales Performance Analysis
+* Fiscal Year: 2023
+* Data Scope: 200 Transactions | 5 Regions | 6 Sales Representatives | 5 Product Categories
+* Tools Used: Microsoft Excel (ETL & Analytical Modeling) & Power BI (Interactive Visualization Dashboard)
+* Author: Ibibo Ataisi Justin (Data Analyst & Project Manager)
+
+---
+
+## 1. Executive Summary
+This report presents a comprehensive analysis of the sales dataset for the fiscal year 2023. The primary objective is to evaluate sales performance across regions, representatives, and product categories, identify key trends, uncover inefficiencies, and provide actionable, data-driven recommendations to maximize revenue and improve operational effectiveness in the upcoming fiscal period.
+
+---
+
+## 2. Methodology & Data Preprocessing (ETL)
+Prior to analysis, a rigorous Data Auditing and Cleaning process was conducted using Microsoft Excel to ensure data integrity, accuracy, and consistency. 
+
+### 🧼 Data Cleaning Checklist
+The following data quality issues were systematically resolved:
+* Handling Missing Values: Missing entries in critical fields such as *Units Sold* and *Sales Representative Names* were programmatically identified and rectified using conditional lookups (`VLOOKUP`) and data cross-referencing.
+* Standardizing Formats: 
+  * Dates: Standardized mixed date formats (e.g., combining DD/MM/YYYY and YYYY-MM-DD`) into a single, unified `DD/MM/YYYY framework.
+  * Casing: Applied uniform text casing (`Title Case`) to eliminate regional duplicates caused by disparate inputs (e.g., standardizing "lagos", "LAGOS", and "Lagos").
+* Removing Duplicates: Isolated and deleted redundant transaction records based on unique Order IDs to prevent the artificial inflation of revenue metrics.
+* Data Type Conversion: Transformed numeric values stored as text strings (e.g., revenue values with currency symbols) into true numeric values using Excel’s VALUE() function to enable accurate mathematical aggregation.
+
+---
+
+## 3. Data Modeling & Core Insights
+
+### 🌍 A. Regional Performance Analysis
+The dataset revealed a high degree of variance in revenue generation across the five geographic zones.
+
+| S/N | Region | Total Revenue (₦) | Percentage of Total Sales (%) |
+| :--- | :--- | :--- | :--- |
+| 1 | Port Harcourt | 130,000,000 | ~33.3% |
+| 2 | Lagos | 105,000,000 | ~26.9% |
+| 3 | Abuja | 78,000,000 | ~20.0% |
+| 4 | Kano | 50,000,000 | ~12.8% |
+| 5 | Enugu | 27,000,000 | ~6.9% |
+| - | Total | 390,000,000 | 100.0% |
+
+> 💡 Key Finding: The Port Harcourt and Lagos regions collectively drive 60.2% of total corporate revenue, indicating strong product-market fit and high demand in coastal commercial hubs. Conversely, Enugu represents a severe performance bottleneck, generating only 6.9% of total sales.
+
+---
+
+### 👥 B. Sales Representative Performance & Target Evaluation
+To evaluate efficiency, actual annual revenues were benchmarked against assigned targets. 
+
+> ⚠️ Methodology Note for Technical Recruiters: The raw default dashboard metrics initially displayed a massive, misleading variance (showing representatives exceeding monthly targets by 239% to 754%). This occurred because an *annualized actual sales figure* was being compared directly against a single *monthly target boundary*. 
+
+To fix this metric distortion and provide true corporate accuracy, the analytical logic was adjusted to calculate True Annual Target Attainment:
+
+$$\text{True Target Achievement \%} = \frac{\text{Actual Annual Revenue}}{\text{Monthly Target} \times 12} \times 100$$
+
+#### Performance Metrics Table
+* Total Annual Target Team Boundary: ₦1,036,800,000
+* Actual Total Revenue Achieved: ₦390,000,000
+* Overall Team Target Attainment Rate: 37.6%
+
+| Sales Representative | Total Revenue Achieved (₦) | Assigned Monthly Target (₦) | True Annual Target (₦) | True Target Attainment (%) | Performance Status |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Tunde Adeyemi | 45,300,000 | 6,000,000 | 72,000,000 | 62.
+[6/15/2026 4:02 PM] Ibibo Ataisi Justin ™️: 9% | Top Performer |
+| Chidi Okechukwu | 72,500,000 | 12,000,000 | 144,000,000 | 50.3% | Moderate |
+| Musa Ibrahim | 56,100,000 | 10,000,000 | 120,000,000 | 46.8% | Moderate |
+| Fatima Bello | 107,900,000 | 24,700,000 | 296,400,000 | 36.3% | Low Attainment (High Vol) |
+| Blessing Okon | 63,400,000 | 18,500,000 | 222,000,000 | 28.6% | Low Attainment |
+| Aliyu Umar | 44,800,000 | 15,200,000 | 182,400,000 | 24.6% | Critical Review |
+
+#### Deep-Dive Performance Insights
+* The Target Setting Paradox: Fatima Bello generated the single highest absolute revenue volume for the company (**₦107.9M**). However, due to an incredibly high, uncalibrated monthly target requirement of ₦24.7M, her actual target attainment sits at just 36.3%. 
+* Efficiency Leadership: Tunde Adeyemi, despite generating lower absolute sales volume (₦45.3M), achieved the highest performance efficiency at 62.9% of his localized annual target baseline.
+
+---
+
+### 📦 C. Product Category Optimization
+Analysis of product category distributions highlights the core volume drivers of the enterprise.
+
+```text
+📦 Electronics      ██████████████████████████████ ₦145,000,000 (37.2%)
+👗 Apparel          █████████████████████ ₦98,000,000 (25.1%)
+🏡 Home Appliances  ██████████████ ₦67,000,000 (17.2%)
+📚 Books            ██████████ ₦48,000,000 (12.3%)
+⚽ Cosmetics        ████████ ₦32,000,000 (8.2%)
