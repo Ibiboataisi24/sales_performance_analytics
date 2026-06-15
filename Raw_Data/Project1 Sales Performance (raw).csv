@@ -1,0 +1,201 @@
+Order_ID,Date,Region,Product_Category,Product_Name,Units_Sold,Unit_Price_NGN,Total_Revenue,Sales_Rep,Monthly_Target_NGN
+ORD-1001,13/01/2023,Kano,Clothing,Jeans,28,NGN 15000,,Ngozi Eze,800000
+ORD-1013,29/11/2023,ABUJA,Clothing,Ankara Set,1,350000,350000,FATIMA BELLO,750000
+ORD-1003,22/06/2023,ABUJA,Electronics,iPhone 14,3,200000,600000,Fatima Bello,450000
+ORD-1004,31/05/2023,,Food,Rice 50kg,,25000,,Fatima Bello,500000
+ORD-1005,21/08/2023,lagos,Clothing,Ladies Gown,45,200000,9000000,Ngozi Eze,800000
+ORD-1006,25/03/2023,Enugu,Beauty,Face Cream,50,15000,750000,Chukwuemeka Obi,450000
+ORD-1007,19/04/2023,,Food,Noodles Box,42,80000,3360000,Tunde Adeyemi,800000
+ORD-1008,27/10/2023,,Furniture,3-Seater Sofa,6,NGN 350000,,Fatima Bello,750000
+ORD-1009,05/08/2023,ABUJA,Furniture,Bed Frame,36,350000,12600000,Fatima Bello,800000
+ORD-1010,25/11/2023,Enugu,Furniture,Office Chair,47,45000,2115000,Tunde Adeyemi,500000
+ORD-1011,02/06/2023,PH,Beauty,Face Cream,35,350000,12250000,Chukwuemeka Obi,450000
+ORD-1024,07/06/2023,Kano,Beauty,Shea Butter,5,350000,1750000,Tunde Adeyemi,450000
+ORD-1013,26/03/2023,,Furniture,Wardrobe,45,25000,1125000,FATIMA BELLO,600000
+ORD-1014,22/09/2023,Kano,Electronics,Jeans,38,NGN 25000,,Chukwuemeka Obi,500000
+ORD-1015,06/02/2023,Enugu,Furniture,3-Seater Sofa,37,120000,4440000,Tunde  Adeyemi,750000
+ORD-1016,04/12/2023,ABUJA,Furniture,Office Chair,42,NGN 15000,,chukwuemeka obi,500000
+ORD-1017,08/04/2023,Port Harcourt,Furniture,Bed Frame,5,80000,400000,,800000
+ORD-1018,17/02/2023,Kano,Clothing,Polo Shirt,26,15000,390000,Chukwuemeka Obi,600000
+ORD-1019,21/08/2023,PH,Furniture,Dining Table,4,120000,480000,Chukwuemeka Obi,500000
+ORD-1020,02/09/2023,PH,Furnitur,Men's Suit,5,NGN 120000,,Ngozi Eze,800000
+ORD-1021,11-01-2023,,Beauty,Face Cream,46,45000,2070000,FATIMA BELLO,600000
+ORD-1022,2023-02-07,,Furniture,Smart Watch,23,15000,345000,chukwuemeka obi,450000
+ORD-1023,27/12/2023,PH,Electronics,Smart Watch,43,15000,645000,Tunde Adeyemi,500000
+ORD-1024,21/03/2023,,Clothing,Ladies Gown,17,120000,2040000,Chukwuemeka Obi,450000
+ORD-1025,2023-01-23,Enugu,Clothing,Jeans,36,15000,540000,Tunde Adeyemi,600000
+ORD-1026,17/03/2023,Lagos,Food,Rice 50kg,14,200000,2800000,Fatima Bello,800000
+ORD-1027,28/07/2023,Port Harcourt,Clothing,Ladies Gown,2,25000,50000,chukwuemeka obi,450000
+ORD-1028,08/05/2023,Abuja,Furniture,Bed Frame,30,45000,1350000,Ngozi Eze,750000
+ORD-1029,23/05/2023,Enugu,Food,Noodles Box,35,45000,1575000,Fatima Bello,600000
+ORD-1030,2023-05-16,lagos,Food,Sugar 10kg,37,25000,925000,FATIMA BELLO,
+ORD-1031,03/10/2023,Kano,Food,Tomato Paste,43,350000,15050000,Sani Musa,450000
+ORD-1032,23/12/2023,Port Harcourt,Clothing,Polo Shirt,12,120000,1440000,FATIMA BELLO,500000
+ORD-1033,18/04/2023,,Beauty,Perfume,44,25000,1100000,Tunde Adeyemi,600000
+ORD-1034,21/11/2023,Abuja,Clothing,Ladies Gown,10,NGN 15000,,Tunde  Adeyemi,500000
+ORD-1035,19/11/2023,ABUJA,Furniture,3-Seater Sofa,1,350000,350000,Fatima Bello,750000
+ORD-1036,23/12/2023,Lagos,Beauty,Shea Butter,30,200000,6000000,,450000
+ORD-1037,16/09/2023,PH,Furniture,Bed Frame,49,25000,1225000,Sani Musa,800000
+ORD-1038,03/05/2023,Abuja,Food,Tomato Paste,35,15000,525000,Ngozi Eze,750000
+ORD-1039,02/02/2023,lagos,Beauty,Shea Butter,27,80000,2160000,Ngozi Eze,500000
+ORD-1040,22/10/2023,Lagos,Food,Noodles Box,27,120000,3240000,,750000
+ORD-1041,20/05/2023,Lagos,Furniture,Bed Frame,30,25000,750000,,
+ORD-1042,16/10/2023,Abuja,food ,3-Seater Sofa,25,45000,1125000,chukwuemeka obi,450000
+ORD-1043,04/08/2023,Abuja,Furnitur,Office Chair,23,25000,575000,Chukwuemeka Obi,750000
+ORD-1044,11/01/2023,Kano,Clothing,Men's Suit,14,80000,1120000,chukwuemeka obi,800000
+ORD-1045,28/02/2023,Port Harcourt,Electronics,Tomato Paste,25,80000,2000000,Ngozi Eze,750000
+ORD-1046,04/06/2023,,Electronics,Smart Watch,23,120000,2760000,chukwuemeka obi,600000
+ORD-1027,08/09/2023,lagos,Furniture,Bed Frame,34,200000,6800000,,450000
+ORD-1048,31/10/2023,Kano,Electronics,Bluetooth Speaker,30,120000,3600000,FATIMA BELLO,450000
+ORD-1049,04/04/2023,lagos,Food,Sugar 10kg,18,NGN 120000,,Ngozi Eze,450000
+ORD-1050,04/05/2023,port harcourt,Furniture,Office Chair,26,200000,5200000,Ngozi Eze,800000
+ORD-1051,06/08/2023,PH,Food,Noodles Box,17,25000,425000,Ngozi Eze,800000
+ORD-1052,20/12/2023,Kano,Furniture,Wardrobe,34,120000,4080000,Fatima Bello,600000
+ORD-1053,02/04/2023,PH,Clothing,Men's Suit,45,25000,1125000,Tunde  Adeyemi,500000
+ORD-1054,29/08/2023,lagos,Clothing,Ankara Set,31,15000,465000,FATIMA BELLO,800000
+ORD-1055,28/01/2023,,Furniture,Rice 50kg,27,120000,3240000,Ngozi Eze,800000
+ORD-1056,15/08/2023,,Furniture,Wardrobe,48,15000,720000,Ngozi Eze,600000
+ORD-1057,22/03/2023,PH,Electronics,Bluetooth Speaker,39,80000,3120000,Ngozi Eze,600000
+ORD-1058,08-21-2023,Enugu,Beauty,Hair Relaxer,35,25000,875000,Sani Musa,500000
+ORD-1059,07/06/2023,,Food,Noodles Box,45,80000,3600000,,450000
+ORD-1060,21/01/2023,lagos,Beauty,Shea Butter,44,350000,15400000,Ngozi Eze,600000
+ORD-1061,31/03/2023,port harcourt,Food,Sugar 10kg,32,15000,480000,FATIMA BELLO,500000
+ORD-1062,18/06/2023,port harcourt,Food,Noodles Box,36,15000,540000,chukwuemeka obi,500000
+ORD-1063,26/07/2023,Lagos,Beauty,Shea Butter,24,120000,2880000,Tunde  Adeyemi,750000
+ORD-1064,09/03/2023,port harcourt,,3-Seater Sofa,20,NGN 120000,,FATIMA BELLO,500000
+ORD-1065,02/03/2023,Port Harcourt,Furniture,Dining Table,18,80000,1440000,Tunde  Adeyemi,800000
+ORD-1066,08/04/2023,PH,Clothing,Ankara Set,27,45000,1215000,,500000
+ORD-1067,02/06/2023,,Furniture,Bed Frame,23,45000,1035000,,600000
+ORD-1068,24/12/2023,ABUJA,Clothing,Polo Shirt,,200000,,FATIMA BELLO,750000
+ORD-1069,19/01/2023,,Food,Noodles Box,30,15000,450000,FATIMA BELLO,750000
+ORD-1070,16/05/2023,ABUJA,Electronics,Smart Watch,21,200000,4200000,Tunde  Adeyemi,500000
+ORD-1071,01/05/2023,Enugu,Clothing,Polo Shirt,49,200000,9800000,Fatima Bello,600000
+ORD-1072,24/01/2023,Lagos,Food,Noodles Box,34,80000,2720000,Tunde Adeyemi,500000
+ORD-1073,15/07/2023,Kano,Furniture,3-Seater Sofa,41,45000,1845000,Chukwuemeka Obi,450000
+ORD-1074,13/12/2023,Abuja,Furniture,Wardrobe,28,200000,5600000,Sani Musa,450000
+ORD-1075,24/02/2023,,Food,Tomato Paste,,350000,,Sani Musa,
+ORD-1076,26/01/2023,port harcourt,Food,Cooking Oil,23,25000,575000,Ngozi Eze,750000
+ORD-1077,18/11/2023,Enugu,electronics,3-Seater Sofa,19,45000,855000,Tunde Adeyemi,800000
+ORD-1078,07/07/2023,Enugu,Clothing,Polo Shirt,19,200000,3800000,Fatima Bello,500000
+ORD-1079,26/04/2023,ABUJA,Beauty,Perfume,,120000,,chukwuemeka obi,600000
+ORD-1080,23/11/2023,Abuja,Clothing,Jeans,36,45000,1620000,Ngozi Eze,450000
+ORD-1081,04/06/2023,Abuja,Electronics,Ankara Set,8,15000,120000,,450000
+ORD-1082,23/12/2023,ABUJA,Beauty,Hair Relaxer,42,15000,630000,Ngozi Eze,600000
+ORD-1024,22/04/2023,Kano,electronics,Sugar 10kg,42,NGN 45000,,Sani Musa,500000
+ORD-1084,08-21-2023,,electronics,HP Laptop,37,NGN 25000,,,750000
+ORD-1085,30/04/2023,Port Harcourt,Food,Hair Relaxer,12,15000,180000,Chukwuemeka Obi,600000
+ORD-1086,02/05/2023,Lagos,Clothing,Ladies Gown,34,15000,510000,Tunde  Adeyemi,600000
+ORD-1087,25/02/2023,Kano,Furnitur,Face Cream,2,15000,30000,FATIMA BELLO,500000
+ORD-1088,08-16-2023,,Beauty,Jeans,36,200000,7200000,Ngozi Eze,450000
+ORD-1089,2023-08-09,PH,Clothing,Ladies Gown,30,80000,2400000,Fatima Bello,600000
+ORD-1090,11/07/2023,port harcourt,Clothing,Samsung TV,48,200000,9600000,Tunde Adeyemi,800000
+ORD-1091,15/10/2023,Abuja,Furniture,Bed Frame,47,15000,705000,Ngozi Eze,500000
+ORD-1092,19/04/2023,port harcourt,Clothing,Ankara Set,24,15000,360000,Ngozi Eze,450000
+ORD-1093,15/11/2023,PH,Electronics,iPhone 14,,45000,,Sani Musa,600000
+ORD-1010,17/10/2023,Abuja,Clothing,Men's Suit,34,25000,850000,Tunde  Adeyemi,600000
+ORD-1095,16/06/2023,,Electronics,Hair Relaxer,40,15000,600000,Sani Musa,450000
+ORD-1096,15/08/2023,Kano,CLOTHING,Shea Butter,44,120000,5280000,Sani Musa,
+ORD-1097,11-03-2023,Kano,Clothing,Ankara Set,1,80000,80000,Tunde Adeyemi,800000
+ORD-1098,14/09/2023,lagos,Electronics,Samsung TV,30,15000,450000,Ngozi Eze,450000
+ORD-1099,02/08/2023,ABUJA,Electronics,HP Laptop,40,80000,3200000,chukwuemeka obi,500000
+ORD-1100,29/10/2023,Abuja,Furniture,Dining Table,50,NGN 25000,,Fatima Bello,750000
+ORD-1101,28/06/2023,Port Harcourt,Beauty,Ladies Gown,10,350000,3500000,Fatima Bello,450000
+ORD-1102,16/10/2023,port harcourt,Beauty,Body Lotion,41,45000,1845000,Fatima Bello,600000
+ORD-1103,2023-10-30,Enugu,Furniture,Office Chair,19,15000,285000,Fatima Bello,800000
+ORD-1104,25/10/2023,Lagos,Furniture,Wardrobe,21,120000,2520000,Tunde Adeyemi,450000
+ORD-1105,25/06/2023,Abuja,Beauty,Shea Butter,29,80000,2320000,Ngozi Eze,600000
+ORD-1106,18/07/2023,lagos,electronics,Shea Butter,36,200000,7200000,Sani Musa,800000
+ORD-1107,2023-06-20,lagos,Food,Noodles Box,46,15000,690000,FATIMA BELLO,600000
+ORD-1108,10/12/2023,PH,Electronics,Bluetooth Speaker,2,45000,90000,Ngozi Eze,450000
+ORD-1109,12/03/2023,Enugu,Electronics,Smart Watch,34,15000,510000,Ngozi Eze,450000
+ORD-1110,03/04/2023,,Clothing,Men's Suit,44,200000,8800000,Tunde  Adeyemi,450000
+ORD-1111,03/05/2023,port harcourt,Clothing,Jeans,30,350000,10500000,FATIMA BELLO,450000
+ORD-1112,13/04/2023,Port Harcourt,food ,Tomato Paste,7,200000,1400000,Fatima Bello,750000
+ORD-1113,20/09/2023,ABUJA,Electronics,HP Laptop,23,15000,345000,FATIMA BELLO,750000
+ORD-1114,11/02/2023,Lagos,Food,Tomato Paste,9,15000,135000,Tunde  Adeyemi,750000
+ORD-1115,29/08/2023,Lagos,Furniture,HP Laptop,47,120000,5640000,Fatima Bello,750000
+ORD-1116,25/01/2023,,food ,Wardrobe,41,120000,4920000,Tunde Adeyemi,500000
+ORD-1117,04/05/2023,Port Harcourt,Electronics,iPhone 14,34,120000,4080000,,450000
+ORD-1118,23/01/2023,lagos,Food,Tomato Paste,23,25000,575000,Fatima Bello,600000
+ORD-1119,30/06/2023,Port Harcourt,Furniture,Bed Frame,9,15000,135000,Tunde  Adeyemi,
+ORD-1120,13/04/2023,lagos,Food,Sugar 10kg,3,350000,1050000,Sani Musa,500000
+ORD-1121,19/06/2023,lagos,Furniture,Bed Frame,25,45000,1125000,Tunde  Adeyemi,600000
+ORD-1122,23/09/2023,Abuja,,3-Seater Sofa,21,15000,315000,Sani Musa,800000
+ORD-1123,27/03/2023,lagos,electronics,Wardrobe,18,200000,3600000,Chukwuemeka Obi,450000
+ORD-1124,14/12/2023,Lagos,Clothing,Polo Shirt,,15000,,chukwuemeka obi,800000
+ORD-1010,14/12/2023,lagos,Food,Rice 50kg,34,45000,1530000,Sani Musa,500000
+ORD-1012,13/09/2023,PH,Electronics,iPhone 14,14,120000,1680000,Tunde  Adeyemi,750000
+ORD-1127,20/08/2023,port harcourt,Electronics,iPhone 14,46,15000,690000,Sani Musa,750000
+ORD-1128,25/12/2023,lagos,Beauty,Hair Relaxer,16,350000,5600000,chukwuemeka obi,600000
+ORD-1129,10/10/2023,Abuja,Electronics,Bluetooth Speaker,50,80000,4000000,Fatima Bello,600000
+ORD-1130,19/08/2023,PH,Furnitur,Sugar 10kg,9,80000,720000,Chukwuemeka Obi,800000
+ORD-1131,26/03/2023,Kano,Food,Sugar 10kg,6,45000,270000,,600000
+ORD-1132,17/02/2023,Port Harcourt,Beauty,Hair Relaxer,40,200000,8000000,chukwuemeka obi,800000
+ORD-1133,2023-01-15,,Food,Sugar 10kg,41,15000,615000,,600000
+ORD-1134,17/12/2023,port harcourt,Electronics,HP Laptop,31,80000,2480000,Ngozi Eze,600000
+ORD-1135,26/06/2023,Port Harcourt,Food,Rice 50kg,30,15000,450000,Ngozi Eze,500000
+ORD-1136,16/07/2023,ABUJA,Clothing,Ladies Gown,37,200000,7400000,Tunde Adeyemi,800000
+ORD-1137,07/06/2023,Abuja,Furniture,3-Seater Sofa,23,NGN 15000,,Tunde  Adeyemi,450000
+ORD-1138,05/01/2023,ABUJA,Clothing,Ankara Set,24,15000,360000,Ngozi Eze,600000
+ORD-1139,07/02/2023,port harcourt,Beauty,Body Lotion,8,25000,200000,FATIMA BELLO,600000
+ORD-1140,07/07/2023,Kano,Beauty,Body Lotion,,15000,,chukwuemeka obi,800000
+ORD-1141,07/11/2023,Port Harcourt,Food,Tomato Paste,40,200000,8000000,Ngozi Eze,800000
+ORD-1142,29/12/2023,port harcourt,Electronics,Samsung TV,38,45000,1710000,Chukwuemeka Obi,600000
+ORD-1143,24/10/2023,Lagos,Beauty,Body Lotion,40,350000,14000000,Tunde Adeyemi,750000
+ORD-1045,26/02/2023,port harcourt,Food,Noodles Box,27,120000,3240000,Tunde  Adeyemi,500000
+ORD-1145,23/09/2023,lagos,Furniture,Dining Table,30,120000,3600000,chukwuemeka obi,600000
+ORD-1146,09/04/2023,Enugu,Beauty,Face Cream,46,25000,1150000,Tunde  Adeyemi,600000
+ORD-1147,21/05/2023,,Beauty,Perfume,50,350000,17500000,Chukwuemeka Obi,500000
+ORD-1148,15/08/2023,port harcourt,Clothing,Jeans,36,200000,7200000,Fatima Bello,800000
+ORD-1149,26/01/2023,PH,Clothing,Men's Suit,22,200000,4400000,Tunde Adeyemi,
+ORD-1150,22/03/2023,port harcourt,Furniture,Dining Table,42,15000,630000,Fatima Bello,750000
+ORD-1151,20/01/2023,Port Harcourt,Furniture,3-Seater Sofa,3,350000,1050000,Tunde  Adeyemi,600000
+ORD-1152,05/01/2023,,Electronics,iPhone 14,42,120000,5040000,Tunde Adeyemi,450000
+ORD-1153,27/02/2023,port harcourt,Food,Rice 50kg,19,120000,2280000,Ngozi Eze,450000
+ORD-1154,21/09/2023,ABUJA,Electronics,HP Laptop,16,15000,240000,Ngozi Eze,600000
+ORD-1155,04/06/2023,,Electronics,iPhone 14,4,200000,800000,Sani Musa,800000
+ORD-1156,27/12/2023,Abuja,Food,Cooking Oil,9,80000,720000,Ngozi Eze,800000
+ORD-1157,03/10/2023,Kano,Clothing,Jeans,6,120000,720000,chukwuemeka obi,800000
+ORD-1158,08/10/2023,Kano,Beauty,Hair Relaxer,34,80000,2720000,Ngozi Eze,450000
+ORD-1159,19/09/2023,Lagos,CLOTHING,Bed Frame,36,80000,2880000,Sani Musa,450000
+ORD-1160,02/01/2023,,electronics,Samsung TV,4,15000,60000,Tunde  Adeyemi,
+ORD-1161,11/03/2023,ABUJA,Food,Noodles Box,25,80000,2000000,,600000
+ORD-1162,03/10/2023,Port Harcourt,Clothing,Men's Suit,30,200000,6000000,FATIMA BELLO,750000
+ORD-1163,27/06/2023,Kano,CLOTHING,Smart Watch,2,25000,50000,Fatima Bello,450000
+ORD-1164,27/12/2023,Kano,Electronics,HP Laptop,49,350000,17150000,Tunde Adeyemi,600000
+ORD-1165,22/10/2023,,Food,Cooking Oil,34,25000,850000,Sani Musa,800000
+ORD-1166,31/03/2023,ABUJA,Beauty,Face Cream,43,80000,3440000,chukwuemeka obi,450000
+ORD-1167,12/07/2023,PH,Furniture,3-Seater Sofa,46,25000,1150000,Chukwuemeka Obi,450000
+ORD-1168,10/03/2023,Enugu,Clothing,Men's Suit,24,15000,360000,Ngozi Eze,
+ORD-1169,06/11/2023,Abuja,Clothing,Jeans,36,25000,900000,chukwuemeka obi,500000
+ORD-1170,08/04/2023,Abuja,Furniture,Wardrobe,26,25000,650000,Sani Musa,800000
+ORD-1171,07/06/2023,PH,Furniture,Bed Frame,21,25000,525000,FATIMA BELLO,
+ORD-1172,2023-03-16,,Beauty,Face Cream,22,25000,550000,Ngozi Eze,600000
+ORD-1173,08/09/2023,port harcourt,Furniture,Dining Table,47,120000,5640000,,500000
+ORD-1174,08/02/2023,Lagos,Electronics,HP Laptop,10,15000,150000,Tunde  Adeyemi,800000
+ORD-1175,12/11/2023,port harcourt,Furnitur,Bluetooth Speaker,,120000,,,500000
+ORD-1176,24/12/2023,Port Harcourt,Electronics,Smart Watch,13,120000,1560000,chukwuemeka obi,450000
+ORD-1177,27/07/2023,Kano,Clothing,Men's Suit,42,NGN 350000,,FATIMA BELLO,800000
+ORD-1178,11-23-2023,port harcourt,Furniture,Dining Table,7,120000,840000,Ngozi Eze,800000
+ORD-1179,24/01/2023,Enugu,Beauty,Shea Butter,21,15000,315000,Ngozi Eze,450000
+ORD-1180,03/06/2023,Kano,Beauty,Perfume,35,45000,1575000,Tunde Adeyemi,500000
+ORD-1181,06-27-2023,Abuja,Food,Sugar 10kg,26,350000,9100000,Sani Musa,450000
+ORD-1182,02/07/2023,ABUJA,Furniture,Wardrobe,6,350000,2100000,Ngozi Eze,500000
+ORD-1183,14/07/2023,Port Harcourt,Furniture,Office Chair,20,80000,1600000,Sani Musa,500000
+ORD-1184,18/08/2023,PH,Clothing,Dining Table,39,120000,4680000,FATIMA BELLO,
+ORD-1185,13/02/2023,PH,Clothing,Ladies Gown,11,25000,275000,Sani Musa,500000
+ORD-1186,22/05/2023,port harcourt,Electronics,HP Laptop,32,120000,3840000,Tunde  Adeyemi,600000
+ORD-1026,20/06/2023,ABUJA,Food,Noodles Box,42,120000,5040000,chukwuemeka obi,750000
+ORD-1188,01/04/2023,lagos,Food,Noodles Box,16,45000,720000,FATIMA BELLO,800000
+ORD-1189,07/10/2023,PH,Electronics,Bluetooth Speaker,14,80000,1120000,Fatima Bello,450000
+ORD-1190,13/03/2023,Kano,Food,Noodles Box,5,80000,400000,Tunde  Adeyemi,800000
+ORD-1191,21/12/2023,Lagos,Food,Sugar 10kg,6,15000,90000,chukwuemeka obi,800000
+ORD-1192,27/11/2023,ABUJA,Food,Noodles Box,7,45000,315000,,800000
+ORD-1193,11/07/2023,,Beauty,Shea Butter,19,80000,1520000,Fatima Bello,750000
+ORD-1194,25/06/2023,Kano,Beauty,Perfume,47,200000,9400000,Fatima Bello,500000
+ORD-1022,28/11/2023,Port Harcourt,Clothing,Jeans,36,80000,2880000,Ngozi Eze,750000
+ORD-1196,03/12/2023,Lagos,Beauty,Perfume,25,15000,375000,Ngozi Eze,500000
+ORD-1197,02/10/2023,lagos,Clothing,Ankara Set,32,120000,3840000,chukwuemeka obi,800000
+ORD-1198,28/02/2023,port harcourt,Beauty,Face Cream,38,15000,570000,chukwuemeka obi,600000
+ORD-1199,11/07/2023,PH,Furniture,3-Seater Sofa,28,25000,700000,,750000
+ORD-1200,08/09/2023,Port Harcourt,Food,Sugar 10kg,23,15000,345000,Ngozi Eze,800000
