@@ -62,11 +62,10 @@ The Power BI dashboard includes:
 
 ## Repository Contents
 
-- [Original raw dataset](Raw_Data/)
+- [Original Raw Dataset](Raw_Data/)
 - [Sales_Performance_clean](Cleaned_Data/)
-- Sales_Performance_Dashboard.pbix — Power BI dashboard file
-- Project_Overview.docx — Full project documentation
-- [Preview of final dashboard](Dashboard/)
+- [Full Project documentation](Report/)
+- [Preview Of Final Dashboard](Dashboard/)
 
 ---
 
