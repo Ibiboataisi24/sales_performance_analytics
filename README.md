@@ -63,7 +63,7 @@ The Power BI dashboard includes:
 ## Repository Contents
 
 - Sales_Performance_MESSY.xlsx — Original raw dataset
-- [Sales_Performance_clean] (https://github.com/Ibiboataisi24/sales_performance_analytics/blob/main/Cleaned_Data/Project1%20Sales%20Performance%20(clean).csv/)
+- [Sales_Performance_clean](Cleaned_Data/)
 - Sales_Performance_Dashboard.pbix — Power BI dashboard file
 - Project_Overview.docx — Full project documentation
 - Dashboard_Screenshot.png — Preview of final dashboard
